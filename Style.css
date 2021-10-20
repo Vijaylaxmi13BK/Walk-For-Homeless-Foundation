@@ -1,0 +1,36 @@
+/* carousel */
+.box{
+  background-color: lightgrey;
+  width:100%;
+  border:100% gray;
+  margin-bottom: 50px;
+  margin-top: 50px;
+}
+
+/* cards */
+body {
+
+    overflow-x: hidden;
+  }
+
+  .container {
+    position:sticky;
+    text-align: center;
+    color: white;
+  }
+
+  .top-left {
+    position: absolute;
+    top: 8px;
+    left: 16px;
+  }
+
+.text1{
+  float: left;
+  color:rgb(18, 28, 58);
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-size:50px;
+  font-weight:bold;
+  text-align: center;
+
+}
